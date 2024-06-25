@@ -297,7 +297,7 @@ margin: 0 30px 0 0;
     max-width:    -moz-calc(100% - 60px) !important;
     max-width:         calc(100% - 60px) !important;  
     position: fixed;
-    bottom: 10px;
+    bottom: 60px;
     right: 55px;
     align-items: center;
     z-index: 9999;
